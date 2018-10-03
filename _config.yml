@@ -1,0 +1,8 @@
+title: Hello world2
+description: 幸福终点
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
